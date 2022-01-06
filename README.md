@@ -1,2 +1,5 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Kodluyoruz İlk Repo
+**Kodluyoruz Eğitimi kapsamında açtığım ilk repo**
+
+![](/images/ilkrepo.jpg)
+
